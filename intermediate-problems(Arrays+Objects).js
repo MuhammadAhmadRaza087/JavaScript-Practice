@@ -1,3 +1,4 @@
+// Problem Num 01
 // Mapping Array of Objects:
 // Given an array of users with name and age, return an array of user names who are above 18.
 const users = [
@@ -13,7 +14,7 @@ const temp_array = users.filter((item)=>{
 })
 console.log("username: ", username);
 
-
+// Problem Num 02
 // Transform Object Values:
 // Write a function that takes an object and returns a new object with all values doubled.
 const obj = { a: 2, b: 3, c: 4 };

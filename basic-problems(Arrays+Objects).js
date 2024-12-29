@@ -1,3 +1,4 @@
+// Problem Num 01
 // Create an array of numbers and return a new array with all numbers doubled using map().
 const given_array = [1,2,3,4];
 const doubled_array = given_array.map((num)=>   {
@@ -5,6 +6,8 @@ const doubled_array = given_array.map((num)=>   {
 })
 console.log('doubled_array', doubled_array);
 
+
+// Problem Num 02
 // Create an object representing a book with properties like title, author, and year.Access and modify the properties.
 const book = {
     title: 'Harry Potter',
